@@ -1,0 +1,20 @@
+{
+  "name": "tensorflow-js-xor-console-visualisation",
+  "version": "1.0.0",
+  "description": "Tensorflow.js solving XOR in the console with a Visual representation of predictions while training.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "concurrently \"tsc -w\" \"nodemon .\\dist\\index.js\""
+  },
+  "author": "Ramon van Bezouw",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^1.2.11",
+    "@types/node": "^12.7.11"
+  },
+  "devDependencies": {
+    "concurrently": "^5.0.0"
+  }
+}
