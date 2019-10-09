@@ -4,7 +4,7 @@ This visualisation uses TensorFlow.js to train a model for solving XOR. After ea
 ![sample image](./img/sample.gif)
 
 
-Typing coding along with Daniel Shiffman's [Coding Challenge #106: XOR Problem with TensorFlow.js](https://www.youtube.com/watch?v=N3ZnNa01BPM) and adding my own twists.
+Typing along with Daniel Shiffman's [Coding Challenge #106: XOR Problem with TensorFlow.js](https://www.youtube.com/watch?v=N3ZnNa01BPM) and adding my own twists.
     
     
     
